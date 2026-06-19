@@ -1,12 +1,12 @@
 📊 Customer Churn Prediction
 
 
-📌 *Project Overview*
+📌 **Project Overview**
 
 This project focuses on building a machine learning model to predict customer churn using Logistic Regression. The goal is to improve prediction accuracy through effective data preprocessing, feature engineering, and model optimization.
 
 
-⚙️ Technologies Used
+⚙️ **Technologies Used**
 
 Python
 
@@ -19,7 +19,7 @@ NumPy
 Google Colab
 
 
-🧠 Project Workflow
+🧠 **Project Workflow**
 
 Data preprocessing and handling missing values
 
@@ -32,12 +32,12 @@ Performance evaluation using classification metrics (Accuracy, Precision, Recall
 Replication of an Azure Machine Learning pipeline in Google Colab
 
 
-📊 Model Performance
+📊 **Model Performance**
 
 The model was evaluated using multiple classification metrics to ensure accuracy and generalization performance.
 
 
-🚀 Key Features
+🚀 **Key Features**
 
 Handles real-world customer churn data
 
