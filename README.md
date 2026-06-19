@@ -1,7 +1,7 @@
 📊 Customer Churn Prediction
 
 
-📌 Project Overview
+📌 *Project Overview*
 
 This project focuses on building a machine learning model to predict customer churn using Logistic Regression. The goal is to improve prediction accuracy through effective data preprocessing, feature engineering, and model optimization.
 
