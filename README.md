@@ -9,18 +9,26 @@ This project focuses on building a machine learning model to predict customer ch
 ⚙️ Technologies Used
 
 Python
+
 Scikit-learn
+
 Pandas
+
 NumPy
+
 Google Colab
 
 
 🧠 Project Workflow
 
 Data preprocessing and handling missing values
+
 Feature engineering and preparation
+
 Model training using Logistic Regression
+
 Performance evaluation using classification metrics (Accuracy, Precision, Recall, F1-score, ROC-AUC, Confusion Matrix)
+
 Replication of an Azure Machine Learning pipeline in Google Colab
 
 
@@ -32,6 +40,9 @@ The model was evaluated using multiple classification metrics to ensure accuracy
 🚀 Key Features
 
 Handles real-world customer churn data
+
 Uses Logistic Regression for binary classification
+
 Includes full ML pipeline (preprocessing → training → evaluation)
+
 Replicates Azure ML workflow in Python
